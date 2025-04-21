@@ -9,5 +9,7 @@
 
 ## 📊 GitHub Stats
 
-![Mansi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansi-cloud&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-cloud&layout=compact&theme=tokyonight)
+![Mansi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mansi-2618&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-2618&layout=compact&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mansi-2618&theme=tokyo-night)
+
